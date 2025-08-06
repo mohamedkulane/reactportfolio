@@ -49,7 +49,7 @@ function Events(){
                     This was one of my earliest exposures to the tech community. I showcased a simple website I built using HTML, CSS, and JavaScript.  </p>      
                  </div>
         </div>
-    <div  className="sm:w-[300px] w-[360px]  overflow-hidden h-96  bg-cover bg-center rounded-lg   text-white sm:mt-0 mt-4   ">
+    <div  className="sm:w-[300px] w-[360px]  overflow-hidden h-96   rounded-lg   text-white sm:mt-0 mt-[2rem]   ">
       <img className="sm:w-[300px] w-[360px] h-[260px] rounded-t-sm     " src="https://i.pinimg.com/736x/e9/81/14/e98114aafa68844404eb83f160ff8c86.jpg" alt="" />
         <div className="bg-gray-200 text-black pb-11 rounded-b-xl pl-2">
                   <h1 className="text-[16px] font-semibold ">Somali Youth Tech Expo – 2021</h1>

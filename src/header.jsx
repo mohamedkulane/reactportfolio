@@ -15,7 +15,7 @@ function Header(){
       <div>
     <div className="flex  justify-between items-center py-3 sm:px-11 px-2 bg-gray-200 text-gray-700 ">
       <h1 className="font-semibold text-2xl">My First <span className="text-blue-600">React</span> App</h1>
-      <i onClick={handleisopen} className="fa-solid fa-bars text-4xl hover:text-blue-600 "></i>
+      <i onClick={handleisopen} className="fa-solid fa-bars text-4xl hover:text-blue-600 sm:hidden "></i>
       <div className="sm:flex gap-11 items-center hidden">
         <ul className="flex gap-14 text-xl font-semibold cursor-pointer text-gray-700">
           <Link to="/"><li className="hover:text-blue-600">Home</li></Link>
